@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "New blog post 2 ",
+      "content": "Some more content ",
+      "id": 2
+    },
+    {
+      "title": "New blog post 2 ",
+      "content": "Some more content ",
+      "id": 3
+    },
+    {
+      "title": "New blog post 3 ",
+      "content": "Some more content 2",
+      "id": 4
+    },
+    {
+      "title": "EDITING PUT ",
+      "content": "Content some more",
+      "id": 5
+    }
+  ]
+}
